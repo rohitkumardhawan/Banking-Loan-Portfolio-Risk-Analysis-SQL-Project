@@ -69,6 +69,14 @@ Banking-Loan-Portfolio-SQL/
 ├── loan_portfolio_master.csv   # Historical/live ledger transaction records
 
 ```
+## 📸 Project Screesnhots
+![Image Alt](https://github.com/rohitkumardhawan/Banking-Loan-Portfolio-Risk-Analysis-SQL-Project/blob/3cd6cfb30068095f2b60fd8db226b8a1cf350c29/Screenshot%202026-07-06%20153144.png)
+
+![Image Alt](https://github.com/rohitkumardhawan/Banking-Loan-Portfolio-Risk-Analysis-SQL-Project/blob/3cd6cfb30068095f2b60fd8db226b8a1cf350c29/Screenshot%202026-07-06%20153231.png)
+
+![Image Alt](https://github.com/rohitkumardhawan/Banking-Loan-Portfolio-Risk-Analysis-SQL-Project/blob/3cd6cfb30068095f2b60fd8db226b8a1cf350c29/Screenshot%202026-07-06%20153256.png)
+
+
 ## 🚀 How to Run & Set Up This Project
 
 Follow these instructions to reconstruct the banking relational database and run the risk analysis scripts locally on your machine using **PostgreSQL** and **pgAdmin 4**:

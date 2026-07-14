@@ -70,9 +70,19 @@ Banking-Loan-Portfolio-SQL/
 
 ```
 ## 📸 Project Screesnhots
+
+### 🔹 Customer Order Quantity Analysis
+Identified customers who ordered more than one quantity using SQL JOIN, filtering, and grouping techniques.
+
 ![Image Alt](https://github.com/rohitkumardhawan/Banking-Loan-Portfolio-Risk-Analysis-SQL-Project/blob/3cd6cfb30068095f2b60fd8db226b8a1cf350c29/Screenshot%202026-07-06%20153144.png)
 
+### 🔹 Inventory & Remaining Stock Analysis
+Calculated remaining book inventory after fulfilling customer orders using LEFT JOIN, SUM, COALESCE, and aggregate functions.
+
 ![Image Alt](https://github.com/rohitkumardhawan/Banking-Loan-Portfolio-Risk-Analysis-SQL-Project/blob/3cd6cfb30068095f2b60fd8db226b8a1cf350c29/Screenshot%202026-07-06%20153231.png)
+
+### 🔹 City-Wise Customer Spending Analysis
+Analyzed customer spending across cities to identify locations generating higher order value using JOIN, SUM, WHERE, and GROUP BY.
 
 ![Image Alt](https://github.com/rohitkumardhawan/Banking-Loan-Portfolio-Risk-Analysis-SQL-Project/blob/3cd6cfb30068095f2b60fd8db226b8a1cf350c29/Screenshot%202026-07-06%20153256.png)
 
